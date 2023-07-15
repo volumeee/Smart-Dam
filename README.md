@@ -15,4 +15,16 @@ Contoh tindakan yang dapat dilakukan oleh sistem IOT Smart Dam antara lain:
 ### Portal Informasi WEBSITE dan TWITTER
 ![SMART ROOM](https://s12.gifyu.com/images/SW66I.gif)
 
-Dengan adanya sistem IOT Smart Dam, pengelolaan dam menjadi lebih efisien karena dapat dilakukan pemantauan dalam waktu nyata, analisis prediktif, dan respons cepat terhadap perubahan kondisi. Hal ini dapat membantu mengurangi risiko bencana dan kerugian yang diakibatkannya serta meningkatkan keselamatan dan keberlanjutan operasional bendungan.
+Sistem IoT Smart Dam juga memberikan manfaat yang signifikan bagi sektor pertanian. Dengan adanya sistem ini, penggunaan air irigasi dapat ditingkatkan secara efisien dengan memantau kebutuhan air tanaman dan mengatur aliran air di dam.
+
+Berikut adalah beberapa manfaat sistem IoT Smart Dam bagi pertanian:
+
+1. Pengelolaan air yang efisien: Sistem ini memungkinkan petani untuk memantau tingkat kelembaban tanah dan kebutuhan air tanaman secara real-time. Data tersebut akan digunakan untuk mengoptimalkan penggunaan air irigasi dengan memberikan informasi yang akurat tentang kapan dan berapa banyak air yang harus dialirkan ke lahan pertanian. Hal ini membantu menghindari pemborosan air dan meningkatkan produktivitas pertanian.
+
+2. Peningkatan hasil panen: Dengan kemampuan menjaga tingkat air yang tepat, sistem IoT Smart Dam membantu dalam menjaga kondisi optimal bagi pertumbuhan tanaman. Tanaman yang mendapatkan pasokan air yang cukup sesuai kebutuhan mereka cenderung tumbuh lebih baik dan menghasilkan hasil panen yang lebih besar dan berkualitas.
+
+3. Prediksi cuaca dan perubahan iklim: Sistem ini juga dilengkapi dengan sensor cuaca yang dapat memberikan data tentang suhu udara, curah hujan, dan kelembaban udara. Informasi ini dapat membantu petani dalam merencanakan kegiatan pertanian seperti penanaman atau pemberian pupuk berdasarkan prediksi cuaca dan perubahan iklim yang akurat.
+
+4. Manajemen risiko bencana: Sistem IoT Smart Dam dapat memberikan peringatan dini tentang potensi banjir atau kebocoran pada dam. Dengan informasi ini, petani dapat mengambil tindakan pencegahan atau evakuasi dini untuk melindungi tanaman mereka dari bahaya banjir atau kelebihan air.
+
+Dengan memanfaatkan sistem IoT Smart Dam, petani dapat meningkatkan efisiensi penggunaan air irigasi, meningkatkan hasil panen, dan mengurangi risiko bencana yang dapat mempengaruhi pertanian. Hal ini berdampak positif pada produktivitas pertanian serta keberlanjutan sektor pertanian secara keseluruhan.
