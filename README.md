@@ -13,7 +13,7 @@ Contoh tindakan yang dapat dilakukan oleh sistem IOT Smart Dam antara lain:
 4. Prediksi banjir: Dengan memantau data cuaca dan tinggi air secara real-time, sistem dapat memberikan prediksi banjir yang akurat untuk membantu masyarakat sekitar    mengambil tindakan pencegahan atau evakuasi dini.
 
 ### Portal Informasi WEBSITE dan TWITTER
-![SMART ROOM](https://s12.gifyu.com/images/SW66I.gif)
+![SMART ROOM](https://i.ibb.co/DCHhX05/Smart-Dam.png)
 
 Sistem IoT Smart Dam juga memberikan manfaat yang signifikan bagi sektor pertanian. Dengan adanya sistem ini, penggunaan air irigasi dapat ditingkatkan secara efisien dengan memantau kebutuhan air tanaman dan mengatur aliran air di dam.
 
