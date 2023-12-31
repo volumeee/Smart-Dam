@@ -28,3 +28,6 @@ Berikut adalah beberapa manfaat sistem IoT Smart Dam bagi pertanian:
 4. Manajemen risiko bencana: Sistem IoT Smart Dam dapat memberikan peringatan dini tentang potensi banjir atau kebocoran pada dam. Dengan informasi ini, petani dapat mengambil tindakan pencegahan atau evakuasi dini untuk melindungi tanaman mereka dari bahaya banjir atau kelebihan air.
 
 Dengan memanfaatkan sistem IoT Smart Dam, petani dapat meningkatkan efisiensi penggunaan air irigasi, meningkatkan hasil panen, dan mengurangi risiko bencana yang dapat mempengaruhi pertanian. Hal ini berdampak positif pada produktivitas pertanian serta keberlanjutan sektor pertanian secara keseluruhan.
+
+### kontributor
+(bagus,ian,etwin,krisna)
